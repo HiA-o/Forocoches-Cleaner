@@ -1,6 +1,6 @@
 # ForoCoches Cleaner
 
-Userscript no oficial para mejorar el filtrado de contenido en ForoCoches.
+Primera y única versión de Userscript no oficial para mejorar el filtrado de contenido en ForoCoches. Hecho a través de Claude en unos minutos gracias a la idea que un shur tuvo recientemente en un hilo. He cogido su idea y la he mejorado con una opción de quitar los +18 de la lista de temas. Que cada uno lo use con responsabilidad.
 
 ## Funciones
 
